@@ -9,15 +9,3 @@ A collection of logos & icons for use in software, websites, etc. Collected from
 * A proposed DMU logo (SVG & PNG)
 
 The EPD icon and the DMU logo use the Nexa Bold font, so install it before editing the SVG file. It is available under a free license.
-
-Repo
-----
-
-The repository is on [Bitbucket](https://bitbucket.org/gaairbranch/logos). You can set up automatic Bitbucket links within TortoiseHg Workbench by adding these lines to your .hg\hgrc file:
-
-```ini
-[tortoisehg]
-issue.regex = #(\d+)\b
-issue.link = https://bitbucket.org/gaairbranch/logos/issue/{1}
-changeset.link = https://bitbucket.org/gaairbranch/logos/commits/{node|short}
-```
