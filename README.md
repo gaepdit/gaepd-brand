@@ -1,11 +1,19 @@
-Georgia EPD-IT Logos and Icons
-==============================
+# Georgia EPD-IT Logos and Icons
 
 A collection of logos & icons for use in software, websites, etc. Collected from various sources.
 
-* Seal of Georgia (in SVG, PNG, & ICO; available in various colors)
-* EPD icon (SVG, PNG & ICO; for use as a favicon)
-* DNR favicon (16px ICO only, taken from DNR website)
-* A proposed DMU logo (SVG & PNG)
+## Seal of Georgia 
 
-The EPD icon and the DMU logo use the Nexa Bold font, so install it before editing the SVG file. It is available under a free license.
+Available in SVG, PNG, & ICO; in various colors. Vector file originally came from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seal_of_Georgia.svg). The work was released into the public domain by the original author.
+
+## DNR favicon 
+
+Available as 16px ICO only; taken from DNR website.
+
+## EPD logo
+
+New EPD logo developed by Erin Ruoff(?) and taken from the flyer for the 2016 Employee Appreciation Week Ice Cream Social.
+
+## Proposed EPD-IT/DMU logo and icons
+
+Proposed DMU logo available as SVG & PNG. Icons available as SVG, PNG & ICO. Icons and logo use the Nexa Bold font, available under a free license.
