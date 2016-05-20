@@ -495,16 +495,6 @@
          id="stop3118" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4664-7"
-       id="linearGradient4670-1"
-       x1="-23.437"
-       y1="53.59668"
-       x2="-23.329786"
-       y2="-51.084171"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="pad" />
-    <linearGradient
        id="linearGradient3121">
       <stop
          style="stop-color:#a8f09c;stop-opacity:1;"
@@ -516,16 +506,6 @@
          id="stop3125" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4664-7"
-       id="linearGradient4684-5"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="pad"
-       x1="-23.437"
-       y1="53.59668"
-       x2="-23.329786"
-       y2="-51.084171" />
-    <linearGradient
        id="linearGradient3128">
       <stop
          style="stop-color:#a8f09c;stop-opacity:1;"
@@ -536,16 +516,6 @@
          offset="1"
          id="stop3132" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4664-7"
-       id="linearGradient4692-2"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="pad"
-       x1="-23.437"
-       y1="53.59668"
-       x2="-23.329786"
-       y2="-51.084171" />
     <linearGradient
        id="linearGradient3135">
       <stop
@@ -578,16 +548,6 @@
          offset="1"
          id="stop3150" />
     </linearGradient>
-    <linearGradient
-       y2="-51.084171"
-       x2="-23.329786"
-       y1="53.59668"
-       x1="-23.437"
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3166"
-       xlink:href="#linearGradient4664-7"
-       inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4664-1"
@@ -699,9 +659,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="433.90135"
-     inkscape:cy="488.69104"
+     inkscape:zoom="2.4543612"
+     inkscape:cx="505.01976"
+     inkscape:cy="540.45012"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -822,22 +782,22 @@
     </g>
     <g
        id="g3032"
-       transform="matrix(0.81745799,0,0,-0.81745253,542.14838,519.71318)"
-       style="fill:url(#linearGradient3042);fill-opacity:1;stroke:#82b97c;stroke-width:1.71262227999999990;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.81745799,0,0,-0.81745253,481.3372,740.33049)"
+       style="fill:url(#linearGradient3042);fill-opacity:1;stroke:#82b97c;stroke-width:1.71262228;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\DMU-Projects\DMU Stuff\Logos\text3043.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
-         d="m 0,0 -5.832,-17.064 -40.6,0 -5.953,5.96 0,34.879 -10.552,28.993 28.984,0 L -10.761,29.576 0,0 z"
-         style="fill:url(#linearGradient3040);fill-opacity:1;fill-rule:nonzero;stroke:#82b97c;stroke-width:1.71262227999999990;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 0,0 -5.832,-17.064 -40.6,0 -5.953,5.96 0,34.879 -10.552,28.993 28.984,0 L -10.761,29.576 0,0 Z"
+         style="fill:url(#linearGradient3040);fill-opacity:1;fill-rule:nonzero;stroke:#82b97c;stroke-width:1.71262228;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3034" />
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Nexa Bold';-inkscape-font-specification:'Nexa Bold';letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none"
-       x="559.89337"
-       y="466.74524"
+       x="492.41266"
+       y="665.55756"
        id="EPD"
        sodipodi:linespacing="125%"
        inkscape:label="#EPD"
@@ -847,14 +807,14 @@
        inkscape:export-filename="C:\DMU-Projects\DMU Stuff\Logos\text3043.png"><tspan
          sodipodi:role="line"
          id="tspan3046"
-         x="559.89337"
-         y="466.74524"
+         x="492.41266"
+         y="665.55756"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Nexa Bold';-inkscape-font-specification:'Nexa Bold';fill:#444444;fill-opacity:1;stroke:none">GA  EPD-IT</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:19.8255806px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none;font-family:Nexa Bold;-inkscape-font-specification:'Nexa Bold, Bold'"
-       x="559.59406"
-       y="498.87137"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.8255806px;line-height:125%;font-family:'Nexa Bold';-inkscape-font-specification:'Nexa Bold, Bold';letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke:none"
+       x="492.11325"
+       y="697.68347"
        id="text3043"
        sodipodi:linespacing="125%"
        transform="scale(0.9011628,1.1096774)"
@@ -862,28 +822,8 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3045"
-         x="559.59406"
-         y="498.87137">Data Management Unit</tspan></text>
-    <g
-       style="fill:url(#linearGradient4692-2);fill-opacity:1;stroke:#515151;stroke-width:0.36699086;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4714-2)"
-       transform="matrix(1.6349165,0,0,-1.6349197,609.75595,754.08255)"
-       id="g4686-6">
-      <path
-         id="path4688-1"
-         style="fill:url(#linearGradient3166);fill-opacity:1;fill-rule:nonzero;stroke:#515151;stroke-width:0.36699086;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 0,0 -5.832,-17.064 -40.6,0 -5.953,5.96 0,34.879 -10.552,28.993 28.984,0 L -10.761,29.576 0,0 z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g208-4"
-       transform="matrix(1.6349165,0,0,-1.6349197,607.84082,752.49769)"
-       style="fill:url(#linearGradient4670-1);fill-opacity:1;stroke:#000000;stroke-width:1.22330165;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 0,0 -5.832,-17.064 -40.6,0 -5.953,5.96 0,34.879 -10.552,28.993 28.984,0 L -10.761,29.576 0,0 z"
-         style="fill:url(#linearGradient4684-5);fill-opacity:1;fill-rule:nonzero;stroke:#515151;stroke-width:1.22330165;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path210-2" />
-    </g>
+         x="492.11325"
+         y="697.68347">Data Management Unit</tspan></text>
     <g
        id="g4718-3"
        transform="matrix(0.61217254,0,0,-0.61216845,446.15385,871.29061)"
@@ -1066,5 +1006,12 @@
          x="576.73022"
          y="810.3833"
          style="font-size:10.00605488px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#444444;fill-opacity:1;font-family:Nexa Bold;-inkscape-font-specification:'Nexa Bold, Bold'">EPD</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 608.40818,570.14827 -19.11313,55.71332 -133.05768,0 -19.50967,-19.45917 0,-113.87861 -34.5819,-94.66103 94.98879,0 76.00676,75.72099 35.26683,96.5645 z"
+       style="fill:#a8f09c;fill-opacity:1;fill-rule:nonzero;stroke:#515151;stroke-width:3.00120234;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4774-6"
+       inkscape:export-xdpi="96.217079"
+       inkscape:export-ydpi="96.217079" />
   </g>
 </svg>
