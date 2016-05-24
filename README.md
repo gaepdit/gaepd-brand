@@ -17,3 +17,5 @@ New EPD logo developed by Erin Ruoff(?) and taken from the flyer for the 2016 Em
 ## Proposed EPD-IT/DMU logo and icons
 
 Proposed DMU logo available as SVG & PNG. Icons available as SVG, PNG & ICO. Icons and logo use the Nexa Bold font, available under a free license.
+
+State of Georgia shape file from the Twenty Seven linework set created by Marty Elmer and released to public domain as part of [Project Linework](http://www.projectlinework.org/).
