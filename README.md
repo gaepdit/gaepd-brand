@@ -12,7 +12,7 @@ Available as 16px ICO only; taken from DNR website.
 
 ## EPD logo
 
-New EPD logo developed by Erin Ruoff(?) and taken from the flyer for the 2016 Employee Appreciation Week Ice Cream Social.
+New EPD logo provided by Erin Ruoff. Available in SVG.
 
 ## Proposed EPD-IT/DMU logo and icons
 
