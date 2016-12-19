@@ -1,0 +1,14 @@
+{
+  "name": "ga-epd-branding",
+  "version": "0.1.0",
+  "description": "Branding files for use by Georgia EPD-IT",
+  "author": "Doug Waldron <douglas.waldron@dnr.ga.gov>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/gaepdit/ga-epd-brand.git"
+  },
+  "dependencies": {},
+  "private": true,
+  "homepage": "https://bitbucket.org/gaepdit/ga-epd-brand/"
+}
