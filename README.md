@@ -10,7 +10,7 @@ New EPD logo/icon provided by Erin Ruoff. Available in SVG and PNG.
 
 ## Seal of Georgia 
 
-Available in gold (bitmapped only) and flat color (vector). Vector file originally came from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seal_of_Georgia.svg). The work was released into the public domain by the original author.
+Available in gold (bitmapped only) and flat color (vector). Vector file originally came from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seal_of_Georgia.svg), which work was released into the public domain by the original author.
 
 ![](https://bytebucket.org/gaepdit/ga-epd-brand/raw/master/dist/logos/Seal_of_Georgia_white.svg)
 
@@ -19,23 +19,25 @@ Available in gold (bitmapped only) and flat color (vector). Vector file original
 * The `src` directory contains original source files.
 * The `dist` directory contains generated and optimized files for use in production.
 
-Want to include these files as a dependency in your project? Run `npm install --save bitbucket:gaepdit/ga-epd-brand` in your project folder. Then add a gulp task in `gulpfile.js` to copy the desired files to the appropriate destination. For example,
+Run `npm install --save ga-epd-brand` to include these files as a dependency in your project. Add a gulp task in `gulpfile.js` to copy the desired files to the appropriate destination. For example,
 
 ```js
 var paths = {
     webRoot: './wwwroot/',
     assetsRoot: './wwwroot/assets/',
-    nodeRoot: './node_modules/'
+    gaBrand: './node_modules/ga-epd-brand/dist/**/*',
+    gaFavicons: './node_modules/ga-epd-brand/dist/epd-favicons/*',
+
 };
 
-gulp.task('brand.copyFavicons', function () {
-    return gulp.src([paths.nodeRoot + 'ga-epd-brand/dist/epd-favicons/**/*'])
-        .pipe(gulp.dest(paths.webRoot));
+gulp.task('brand.copyFiles', function () {
+    return gulp.src([paths.gaBrand, '!' + paths.gaFavicons])
+        .pipe(gulp.dest(paths.assetsRoot));
 });
 
-gulp.task('brand.copyLogos', function () {
-    return gulp.src([paths.nodeRoot + 'ga-epd-brand/dist/logos/**/*'])
-        .pipe(gulp.dest(paths.assetsRoot));
+gulp.task('brand.copyFavicons', function () {
+    return gulp.src(paths.gaFavicons)
+        .pipe(gulp.dest(paths.webRoot));
 });
 ```
 
