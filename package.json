@@ -6,8 +6,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/gaepdit/ga-epd-brand.git"
+    "url": "https://gitlab.com/ga-epd-it/ga-epd-brand.git"
   },
   "dependencies": {},
-  "homepage": "https://bitbucket.org/gaepdit/ga-epd-brand/"
+  "homepage": "https://gitlab.com/ga-epd-it/ga-epd-brand/"
 }

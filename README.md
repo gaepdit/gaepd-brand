@@ -1,6 +1,6 @@
 # Georgia EPD-IT Logos and Icons
 
-Branding files for use by Georgia EPD-IT
+Branding files for use by Georgia EPD.
 
 ## EPD logo
 
@@ -43,7 +43,7 @@ gulp.task('brand.copyFavicons', function () {
 
 ## Favicons
 
-To use the new epd icon as a shortcut icon in a website, first copy all of the assets in the `dist/epd-favicons/` folder into the webroot. Then copy the following lines into the `<head>` section of your HTML pages:
+To use the new EPD icon as a shortcut icon in a website, first copy all of the assets in the `dist/epd-favicons/` folder into the webroot. Then copy the following lines into the `<head>` section of your HTML pages:
 
 ```html
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=69kRrvbXdL">
