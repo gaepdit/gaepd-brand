@@ -6,13 +6,13 @@ Branding files for use by Georgia EPD.
 
 New EPD logo/icon provided by Erin Ruoff. Available in SVG and PNG.
 
-![](https://bytebucket.org/gaepdit/ga-epd-brand/raw/master/dist/logos/epd-icon.svg)
+![](dist/logos/epd-icon.png)
 
 ## Seal of Georgia 
 
 Available in gold (bitmapped only) and flat color (vector). Vector file originally came from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seal_of_Georgia.svg), which work was released into the public domain by the original author.
 
-![](https://bytebucket.org/gaepdit/ga-epd-brand/raw/master/dist/logos/Seal_of_Georgia_white.svg)
+![](src/Seal_of_Georgia/White/Seal_of_Georgia_white_128x128.png)
 
 ## How to use
 
