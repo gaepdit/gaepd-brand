@@ -26,3 +26,16 @@ To set the shortcut icon for a website, copy the assets in the `favicon/` folder
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#e5f6fa">
 ```
+
+### DEV/UAT Favicons
+
+To optionally enable alternate favicons for DEV/UAT environments, copy the additional icons from the `favicon-alt/` folder into the application root and add the following lines (or their equivalent) to the document `<head>`:
+
+```html
+  <environment include="Development">
+    <link rel="icon" href="/icon-dev.svg" type="image/svg+xml" charset="utf-8">
+  </environment>
+  <environment include="Staging">
+    <link rel="icon" href="/icon-uat.svg" type="image/svg+xml" charset="utf-8">
+  </environment>
+```
