@@ -39,3 +39,5 @@ To optionally enable alternate favicons for DEV/UAT environments, copy the addit
     <link rel="icon" href="/icon-uat.svg" type="image/svg+xml" charset="utf-8">
   </environment>
 ```
+
+![Favicon examples](favicon-examples.png)
