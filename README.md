@@ -21,7 +21,7 @@ To set the shortcut icon for a website, copy the assets in the `favicon/` folder
 
 ```html
   <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="icon" href="/icon.svg" type="image/svg+xml" charset="utf-8">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#e5f6fa">
@@ -33,10 +33,10 @@ To optionally enable alternate favicons for DEV/UAT environments, copy the addit
 
 ```html
   <environment include="Development">
-    <link rel="icon" href="/icon-dev.svg" type="image/svg+xml" charset="utf-8">
+    <link rel="icon" href="/icon-dev.svg" type="image/svg+xml">
   </environment>
   <environment include="Staging">
-    <link rel="icon" href="/icon-uat.svg" type="image/svg+xml" charset="utf-8">
+    <link rel="icon" href="/icon-uat.svg" type="image/svg+xml">
   </environment>
 ```
 
