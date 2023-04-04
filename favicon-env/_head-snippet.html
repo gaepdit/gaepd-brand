@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Favicon Example With dev/dev-UAT Environment Icons</title>
+
+  <!-- Add the following lines to the document <head>. -->
+
+  <environment include="Production">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="theme-color" content="#e5f6fa">
+  </environment>
+  <environment include="Development">
+    <link rel="icon" href="/dev/dev-favicon.ico" sizes="any">
+    <link rel="icon" href="/dev/dev-icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/dev/dev-apple-touch-icon.png">
+    <link rel="manifest" href="/dev/dev-site.webmanifest">
+    <meta name="theme-color" content="#333333">
+  </environment>
+  <environment include="Staging">
+    <link rel="icon" href="/uat/uat-favicon.ico" sizes="any">
+    <link rel="icon" href="/uat/uat-icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/uat/uat-apple-touch-icon.png">
+    <link rel="manifest" href="/uat/uat-site.webmanifest">
+    <meta name="theme-color" content="#e5f6fa">
+  </environment>
+
+</head>
+
+<body>
+  <h1>Environment-specific favicons!</h1>
+</body>
+
+</html>
