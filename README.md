@@ -17,27 +17,14 @@ Available in flat color (vector and bitmapped) and  gold (bitmapped only). The v
 
 ## Favicons
 
-To set the shortcut icon for a website, copy the assets in the `favicon/` folder (not counting the "head-snippet.html" file) into the root of your application. Then copy the following lines into the `<head>` section of your HTML document:
+To set the shortcut icon for a website:
 
-```html
-  <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="icon" href="/icon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-  <link rel="manifest" href="/manifest.webmanifest">
-  <meta name="theme-color" content="#e5f6fa">
-```
+* Copy the assets in the "favicon/" folder into the root of your application. 
+* Copy the appropriate lines from the "_head-snippet.html" file into the `<head>` section of your HTML document.
+* Update the "site.webmanifest" file to set the `name` and `short_name` properties.
 
 ### DEV/UAT Favicons
 
-To optionally enable alternate favicons for DEV/UAT environments, copy the additional icons from the `favicon-alt/` folder into the application root and add the following lines (or their equivalent) to the document `<head>`:
-
-```html
-  <environment include="Development">
-    <link rel="icon" href="/icon-dev.svg" type="image/svg+xml">
-  </environment>
-  <environment include="Staging">
-    <link rel="icon" href="/icon-uat.svg" type="image/svg+xml">
-  </environment>
-```
+To optionally enable alternate favicons for DEV/UAT environments, use the contents of the "favicon-env" folder instead. Don't forget that there are three "site.webmanifest" files to update.
 
 ![Favicon examples](favicon-examples.png)
